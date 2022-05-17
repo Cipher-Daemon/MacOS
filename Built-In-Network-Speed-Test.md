@@ -1,6 +1,6 @@
 # networkquality
 
-Te command `networkquality` was first introduced in MacOS Monterey. it does both upload and download speed test at the same time.
+The command `networkquality` was first introduced in MacOS Monterey. it does both upload and download speed test at the same time.
 
 ## To run a speedtest:
 ```
